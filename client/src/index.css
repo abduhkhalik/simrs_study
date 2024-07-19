@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#login_page {
+  background-image: url("https://img.freepik.com/free-vector/flat-blue-abstract-background_23-2149325393.jpg?t=st=1720619242~exp=1720622842~hmac=abd51528da584cfba0c9bcca05d67a513d095852ff560e569336d575325846f3&w=740");
+  background-size: cover;
+}
+
+.content {
+  @apply ml-[21rem] py-5
+}
